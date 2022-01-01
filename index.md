@@ -5,7 +5,7 @@ Welcome to the code blog to find the Advanced Data Structures and Algortims and 
 # Data Structures
 
 ```markdown
-<Code/Blog> specials are here : 
+#<Code/Blog> specials are here : 
 
 1. Algorithms
 
@@ -14,6 +14,8 @@ Welcome to the code blog to find the Advanced Data Structures and Algortims and 
 3. Andriod
 
 ```
-[Image](https://i.pinimg.com/originals/c2/e0/c5/c2e0c5b11b2bd803e8a0bace49912d99.jpg)
+
+## ![alt text](https://defkey.com/content/images/program/unity-3d-2018-08-28_06-33-19-large.jpg "Logo Title Text 1")
+
 
 For more details see [Manraj-Mann](https://github.com/Manraj-Mann).
