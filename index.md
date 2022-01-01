@@ -2,10 +2,10 @@
 
 Welcome to the code blog to find the Advanced Data Structures and Algortims and other coding lanuguages , frameworks .
 
-# Data Structures
+# <Code/Blog> Specials
 
 ```markdown
-![M-Swoosh-Logo-Design-Motif](https://user-images.githubusercontent.com/81899682/147850752-a5322e50-e893-4628-9a41-5f8317691a9e.jpg)
+
 
 <Code/Blog> specials are here : 
 
@@ -17,7 +17,6 @@ Welcome to the code blog to find the Advanced Data Structures and Algortims and 
 
 ```
 
-## ![alt text](https://defkey.com/content/images/program/unity-3d-2018-08-28_06-33-19-large.jpg "Logo Title Text 1")
-
+### ![alt text](https://defkey.com/content/images/program/unity-3d-2018-08-28_06-33-19-large.jpg "Logo Title Text 1")
 
 For more details see [Manraj-Mann](https://github.com/Manraj-Mann).
