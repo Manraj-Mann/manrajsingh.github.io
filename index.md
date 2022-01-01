@@ -5,7 +5,9 @@ Welcome to the code blog to find the Advanced Data Structures and Algortims and 
 # Data Structures
 
 ```markdown
-#<Code/Blog> specials are here : 
+![M-Swoosh-Logo-Design-Motif](https://user-images.githubusercontent.com/81899682/147850752-a5322e50-e893-4628-9a41-5f8317691a9e.jpg)
+
+<Code/Blog> specials are here : 
 
 1. Algorithms
 
